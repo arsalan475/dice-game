@@ -83,7 +83,7 @@ width: 10vw;
 
 .action-bottom-btn{
     position: absolute;
-    margin-top: 38vw;
+    margin-top: 28vw;
     display: flex;
     gap: 1.5vw;
     flex-direction: column;
@@ -130,8 +130,8 @@ width: 10vw;
 
 .dices{
     position: absolute;
-top: 19vw;
-left: -.5vw;
+top: 14.5vw;
+left: -.3vw;
 }
 
 
